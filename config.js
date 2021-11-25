@@ -1,8 +1,8 @@
 const CONFIG = {
-    introTitle: 'Chúc mừng sinh nhật Meii',
+    introTitle: 'Chúc mừng sinh nhật Mai',
     introDesc: `Tớ có điều này muốn hỏi Mai, nhớ phải trả lời thật lòng nha`,
     btnIntro: 'oke',
-    title: 'Meii yêu tớ có phải không 😙',
+    title: 'Mai yêu tớ có phải không 😙',
     desc: 'Mai không trả lời hoặc thoát ra, tức là Mai là vợ tớ đó nha :> ',
     btnYes: 'yêu ơi là iuuu <33',
     btnNo: 'cậu mơ à :333',
